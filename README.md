@@ -1,0 +1,1 @@
+# qtbase_zh_CN
